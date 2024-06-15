@@ -3,6 +3,7 @@
 
 ## 环境要求
 pytorch1.8 python3.8
+
 The following packages are required to run the scripts:
 
 - [torch](https://github.com/pytorch/pytorch)
@@ -13,6 +14,7 @@ The following packages are required to run the scripts:
 ## 训练指令
 
 - 训练 CIFAR-100
+
 b0inc10代表初始0类、增量10类，b50inc10代表初始50类、增量10类，以此类推
   ```
   python main.py --config=./configs/cifar/b0inc10.json
