@@ -4,7 +4,7 @@
 ## 环境要求
 pytorch1.8 python3.8
 
-The following packages are required to run the scripts:
+可以参照下面的超链接:
 
 - [torch](https://github.com/pytorch/pytorch)
 - [torchvision](https://github.com/pytorch/vision)
